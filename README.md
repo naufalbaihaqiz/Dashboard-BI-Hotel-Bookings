@@ -46,4 +46,4 @@ Dashboard ini terdiri dari beberapa analisis kunci:
 │   └── analysis_cancel.png
 └── 📝 README.md                    # Dokumentasi proyek ini
 
-### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](MASUKKAN_LINK_PUBLISH_ANDA_DI_SINI)
+### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
