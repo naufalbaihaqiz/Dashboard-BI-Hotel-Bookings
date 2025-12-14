@@ -45,3 +45,5 @@ Dashboard ini terdiri dari beberapa analisis kunci:
 │   ├── dashboard_main.png
 │   └── analysis_cancel.png
 └── 📝 README.md                    # Dokumentasi proyek ini
+
+### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](MASUKKAN_LINK_PUBLISH_ANDA_DI_SINI)
