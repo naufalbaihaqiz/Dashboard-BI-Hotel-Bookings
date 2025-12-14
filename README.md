@@ -1,7 +1,6 @@
 # 🏨 Hotel Business Intelligence Dashboard
 
-![Dashboard Preview](screenshots/dashboard_main.png)
-*(Pastikan kamu mengupload screenshot dashboard utama ke folder 'screenshots' dan ganti nama filenya di sini)*
+### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
 
 ## 📌 Gambaran Proyek (Project Overview)
 Proyek ini bertujuan untuk menganalisis kinerja operasional dan pendapatan sebuah hotel menggunakan data historis pemesanan (booking). Dashboard ini dibuat menggunakan **Power BI** untuk membantu manajemen hotel dalam memantau tren pendapatan, tingkat pembatalan (cancellation rate), serta efisiensi penggunaan kamar.
@@ -35,7 +34,6 @@ Dashboard ini terdiri dari beberapa analisis kunci:
   - `Room Mismatch Status`
 - **Data Modelling:** Menggunakan skema hubungan (Star Schema) antara tabel fakta (*fact_bookings*) dan tabel dimensi (*dim_date*, *dim_room*).
 
-### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
 
 ## 📂 Struktur File
 ```text
