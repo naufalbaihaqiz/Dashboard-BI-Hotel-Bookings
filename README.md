@@ -35,6 +35,8 @@ Dashboard ini terdiri dari beberapa analisis kunci:
   - `Room Mismatch Status`
 - **Data Modelling:** Menggunakan skema hubungan (Star Schema) antara tabel fakta (*fact_bookings*) dan tabel dimensi (*dim_date*, *dim_room*).
 
+### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
+
 ## 📂 Struktur File
 ```text
 📁 Hotel-BI-Dashboard
@@ -46,4 +48,4 @@ Dashboard ini terdiri dari beberapa analisis kunci:
 │   └── analysis_cancel.png
 └── 📝 README.md                    # Dokumentasi proyek ini
 
-### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
+
