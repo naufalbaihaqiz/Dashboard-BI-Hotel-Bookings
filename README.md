@@ -3,7 +3,7 @@
 ### 🔗 [Klik di sini untuk melihat Dashboard Interaktif](https://app.powerbi.com/view?r=eyJrIjoiM2NiYzJhMTEtNGMyZS00MTdlLTlhNDMtYWRjMzA4ZmVjNGVmIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
 
 ## 📌 Gambaran Proyek (Project Overview)
-Proyek ini bertujuan untuk menganalisis kinerja operasional dan pendapatan sebuah hotel menggunakan data historis pemesanan (booking). Dashboard ini dibuat menggunakan **Power BI** untuk membantu manajemen hotel dalam memantau tren pendapatan, tingkat pembatalan (cancellation rate), serta efisiensi penggunaan kamar.
+Proyek ini bertujuan untuk menganalisis kinerja operasional dan pendapatan sebuah hotel menggunakan data historis pemesanan (booking). Dashboard ini dibuat menggunakan **Power BI** untuk membantu manajemen hotel dalam memantau tren pendapatan, tingkat pembatalan (cancellation rate), negara asal, serta efisiensi penggunaan kamar.
 
 Analisis ini menjawab pertanyaan bisnis utama:
 1. Segmen pasar mana yang paling menguntungkan namun memiliki risiko pembatalan tertinggi?
@@ -32,18 +32,9 @@ Dashboard ini terdiri dari beberapa analisis kunci:
   - `Total Revenue`
   - `Cancellation Rate %`
   - `Room Mismatch Status`
-- **Data Modelling:** Menggunakan skema hubungan (Star Schema) antara tabel fakta (*fact_bookings*) dan tabel dimensi (*dim_date*, *dim_room*).
+- **Data Modelling:** Menggunakan skema hubungan (Star Schema) antara tabel fakta (*fact_bookings*) dan tabel dimensi (*dim_date*, *dim_room*,*dim_date*,*dim_status*,*dim_channel*,*dim_customer*).
 
 
-## 📂 Struktur File
-```text
-📁 Hotel-BI-Dashboard
-│
-├── 📄 Hotel_Dashboard_Naufal.pbix  # File project Power BI (Download untuk melihat interaksi)
-├── 📄 hotel_bookings.csv           # Dataset mentah (Sumber: Kaggle)
-├── 📁 screenshots                  # Kumpulan gambar preview dashboard
-│   ├── dashboard_main.png
-│   └── analysis_cancel.png
-└── 📝 README.md                    # Dokumentasi proyek ini
+
 
 
